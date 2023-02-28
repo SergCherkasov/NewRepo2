@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5b5VctWQu6dN93hRchn2l5E+eftk3ZU/IleEkP9hzmP3RH9pOwYPx51NDPiTb8660FJAK3CzW9W9SaxkuaOGGw==",
+  "success": true,
+  "projectFilePath": "\\\\SERVER\\SharedDocs\\Менеджеры\\Черкасов\\Учеба\\Программирование\\C#\\HW_9\\HW_9\\HW_9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
